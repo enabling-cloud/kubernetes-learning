@@ -415,3 +415,6 @@ Product License: Community Engine
 PS D:\practices\kubernetes\basic>
 ```
 
+# References
+* [Kubectl Overview](https://kubernetes.io/docs/reference/kubectl/overview/)
+* [Kubectl cheetsheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
