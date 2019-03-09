@@ -130,4 +130,10 @@ PS C:\WINDOWS\system32> minikube ip
 172.168.100.18
 ```
 
+# References
+* [Docker machine](https://docs.docker.com/machine/get-started/)
+* [Kubernetes local development](https://dzone.com/articles/kubernetes-local-development-with-minikube-on-hype)
+* [minikube on windows](https://medium.com/@JockDaRock/minikube-on-windows-10-with-hyper-v-6ef0f4dc158c)
+* [Running minikube](https://kubernetes.io/docs/setup/minikube/)
+
 

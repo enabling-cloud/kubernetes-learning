@@ -30,7 +30,7 @@
 
 # References
 * [Container Based Virtualization Using Docker]()
-* [Kubernetes Playground]()
-* [Kubernetes Playground 2]()
-* [Kubernetes Basics]()
+* [Kubernetes Playground](https://labs.play-with-k8s.com/)
+* [Kubernetes Playground 2](https://www.katacoda.com/courses/kubernetes/playground)
+* [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
 

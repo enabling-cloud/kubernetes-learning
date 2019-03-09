@@ -9,7 +9,7 @@
 * Nearly everyone who interacts with Kubernetes will use kubectl
 
 
-![](resources/hyperVisor.png)
+
 
 ## Commands
 
