@@ -13,7 +13,9 @@
 ## Prerequisites 
 
 ### Hypervisor 
+
 Make sure Hypervisor is installed 
+
 ![](resources/hyperVisor.png)
 
 ## Package manager for windows

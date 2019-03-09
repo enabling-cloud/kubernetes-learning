@@ -25,6 +25,7 @@
 | ------------- |-----:|
 |[**Minikube Installation**](MinikubeInstallation.md)|15 minutes|
 |[**Starting Minikube**](StartingMinikube.md)|30 minutes|
+|[**Kubectl Basics**](KubectlBasics.md)|30 minutes|
 |[**Tomcat Deployment, Scaling And Upgrading**](TomcatDeploymentScalingAndUpgrading.md)|30 minutes|
 
 # References
