@@ -1,6 +1,7 @@
 # Container Orchestration With Kubernetes
 
 ## Why Kubernetes
+
 * Simplifying Application Deployment
 * Achieving Better utilization of hardware.
 * Health check and self healing
@@ -22,6 +23,7 @@
 
 # Pages
 
+
 |    **Name**   | **Duration** |
 | ------------- |-----:|
 |[**Minikube Installation**](MinikubeInstallation.md)|15 minutes|
@@ -30,6 +32,7 @@
 |[**Tomcat Deployment, Scaling And Upgrading**](TomcatDeploymentScalingAndUpgrading.md)|30 minutes|
 
 # References
+
 
 * [Container Based Virtualization Using Docker]()
 * [Kubernetes Playground](https://labs.play-with-k8s.com/)
