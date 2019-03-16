@@ -1,6 +1,6 @@
 # Tomcat Deployment
 
-**deployment.yml** file
+**deployment.yaml** file
 ```Powershell
 apiVersion: apps/v1beta2
 kind: Deployment
