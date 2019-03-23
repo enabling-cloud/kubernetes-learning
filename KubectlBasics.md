@@ -183,7 +183,7 @@ Starting to serve on 127.0.0.1:8001
 ```
 
 ```Powershell
-PS C:\Users\nadeemoh.ORADEV> curl http://127.0.0.1:8001/
+PS C:\Users\nadeem> curl http://127.0.0.1:8001/
  
  
 StatusCode        : 200
@@ -354,7 +354,7 @@ deployment.extensions "hello-minikube" deleted
 PS D:\practices\kubernetes\basic> minikube docker-env
 $Env:DOCKER_TLS_VERIFY = "1"
 $Env:DOCKER_HOST = "tcp://172.168.100.18:2376"
-$Env:DOCKER_CERT_PATH = "C:\Users\nadeemoh.ORADEV\.minikube\certs"
+$Env:DOCKER_CERT_PATH = "C:\Users\nadeem\.minikube\certs"
 $Env:DOCKER_API_VERSION = "1.35"
 # Run this command to configure your shell:
 # & minikube docker-env | Invoke-Expression
